@@ -41,20 +41,12 @@ Analytics and Reporting:
 Track sales and user behavior.
 Generate reports for inventory and sales performance.
 Interface Technologies
-Front-End:
+Technologies Used:
 
 HTML/CSS: For structuring and styling the website.
 JavaScript: For interactivity and dynamic content.
 Frameworks/Libraries: React.js, Angular, or Vue.js for building a responsive and interactive UI.
-Back-End:
 
-Node.js/Express: For server-side logic and handling API requests.
-Database: MongoDB, PostgreSQL, or MySQL for storing user data, products, and orders.
-Authentication:
-
-JWT (JSON Web Tokens): For secure user authentication.
-OAuth: For social login integration (e.g., Google, Facebook).
-Payment Processing:
 
 Stripe, PayPal, Square: For handling online payments.
 Search and Filtering:
